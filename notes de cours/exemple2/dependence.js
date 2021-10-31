@@ -1,0 +1,3 @@
+export default () => {
+  // Manipulation dans la BD ...
+};
